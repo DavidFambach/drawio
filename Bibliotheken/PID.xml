@@ -19,21 +19,15 @@
     "aspect": "fixed"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(pZJBGoIgEIVPw57ACxTVPUjH5BPBD0jr9gmjCzNd6I55D/55wBAufCVbIIwa2QDhV8LYxSoNblgMao9SRrGssGRjKX0LeUCtk07JhwZ0fHC2hl4VYTyiTAVOhejyG6FnEhmUcPGQef109mWKmTHZrYyEhTHZje1i+Dc2GWN95ikJu28QtDKrhB2AH8JpByI7HCI7/hC77pFr62F1FxeDvvjPpK4MAReldbAxHaXSGkftT9dEXgCSikOfhC8=);whiteSpace=wrap;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 70,
-    "h": 50,
-    "aspect": "fixed"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(rVRBDoMgEHwNdwU/0ND2Cb2jYiUiGKDa/r4oeECjadGEy86ww8BOAAjrmnQUwESQlgJ0BRA+CO8tAi04OCRLXFm7EvmS6I4WxmE9UYzk3Pdpo2RDB1Ya38JETRUzI4tuILnYPeNCOCdF81TyJcqAmOmOjAorYqZbOTpN3u4Qb+sTugTwvqPAmdhUSCMUFhIwQiI77iI7/hQnXCTGRMGlppu7ELb4KhMTuhEkhCup6E7CKsa5i+vOqX/F8ISXW0j8pBCaSCMUQg8oQiFmejO3OYSpbTXFCXWf1wR8AQ==);whiteSpace=wrap;points=[[0,0.5,0,0,8],[0.5,0,0,0,0],[1,0.5,0,0,8]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 70,
-    "h": 50,
-    "aspect": "fixed"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(pZJBGoIgEIVPw57ACxTVPUjH5BPBD0jr9gmjCzNd6I55D/55wBAufCVbIIwa2QDhV8LYxSoNblgMao9SRrGssGRjKX0LeUCtk07JhwZ0fHC2hl4VYTyiTAVOhejyG6FnEhmUcPGQef109mWKmTHZrYyEhTHZje1i+Dc2GWN95ikJu28QtDKrhB2AH8JpByI7HCI7/hC77pFr62F1FxeDvvjPpK4MAReldbAxHaXSGkftT9dEXgCSikOfhC8=);whiteSpace=wrap;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"34\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 70,
     "h": 34,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(rVRBDoMgEHwNdwU/0ND2Cb2jYiUiGKDa/r4oeECjadGEy86ww8BOAAjrmnQUwESQlgJ0BRA+CO8tAi04OCRLXFm7EvmS6I4WxmE9UYzk3Pdpo2RDB1Ya38JETRUzI4tuILnYPeNCOCdF81TyJcqAmOmOjAorYqZbOTpN3u4Qb+sTugTwvqPAmdhUSCMUFhIwQiI77iI7/hQnXCTGRMGlppu7ELb4KhMTuhEkhCup6E7CKsa5i+vOqX/F8ISXW0j8pBCaSCMUQg8oQiFmejO3OYSpbTXFCXWf1wR8AQ==);whiteSpace=wrap;points=[[0,0.5,0,0,8],[1,0.5,0,0,8]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 50,
     "aspect": "fixed"
   }
 ]</mxlibrary>
