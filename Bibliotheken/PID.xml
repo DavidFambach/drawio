@@ -1,19 +1,5 @@
 <mxlibrary>[
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"120\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;rotation=-180;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"60\" width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 120,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "Ventil"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"120\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry y=\"20\" width=\"120\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;rotation=-180;\" vertex=\"1\" parent=\"3\"&gt;&lt;mxGeometry x=\"60\" width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"2\" source=\"4\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"50\" y=\"10\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 120,
-    "h": 70,
-    "aspect": "fixed",
-    "title": "manuelles Ventil"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" y=\"-2.2737367544323206e-13\" width=\"140\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30\" width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"2\" source=\"3\" target=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"70\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" y=\"10\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"2\" source=\"3\" target=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"50\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"100\" y=\"10\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;\" edge=\"1\" parent=\"2\" source=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"50\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;\" edge=\"1\" parent=\"2\" target=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"140\" y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"10\" y=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 140,
     "h": 80,
@@ -21,9 +7,33 @@
     "title": "Pumpe"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"84\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"34\" width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;rotation=-180;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"60\" y=\"34\" width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;rotation=90;container=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30\" y=\"5\" width=\"60\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 120,
-    "h": 84,
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"1000 L\" style=\"strokeWidth=2;html=1;shape=stencil(zZPRboMwDEW/Jo9IlKia+tix7T9casBqmiAnLfTvF3AqLWKt1D1NykPuveTYiYzSte9hQFWVFs6o9IeqqndHBjluojuKtS1F9iJ3SYIfsAniXYEJDgYl8YHdCUc6hnSEbI9MYU71pyr38Zt56foAzaljd7HHLLjHA8yEVXCPz+46Nz9JkdTWTdRmK1JVX08IwE3ccCLohOBbrqcCJvIFuwCBnM3KGeAOi8gpWgNdFvkRcfhhbxItf9WX+jVk8SHi7b9f+S/t5jd+5c10Hf3VBC3ug7HTdesYn8xjS8bIcP9SdSGvAIsrv9lifAM=);whiteSpace=wrap;points=[[0,0.14,0,0,0],[0,0.29,0,0,0],[0,0.43,0,0,0],[0,0.57,0,0,0],[0,0.71,0,0,0],[0,0.86,0,0,0],[0.25,0.04,0,0,0],[0.25,0.95,0,0,0],[0.5,0,0,0,0],[0.5,0.99,0,0,0],[0.75,0.04,0,0,0],[0.75,0.95,0,0,0],[1,0.14,0,0,0],[1,0.29,0,0,0],[1,0.43,0,0,0],[1,0.57,0,0,0],[1,0.71,0,0,0],[1,0.86,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 100,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(rZNBEoMgDEVPwx7BC7S2vQdqrIwIDlBtb18BXajVBXaGBfkfXgIERDNTsw4QwZK1gOgNEXJVXIAeJ6M6BCnFIaxDSKeQmQ4KG7Seac5yAcExVqsGBl7aaQuXNWhunUvvCF/GNW7QLGdF89TqJcuFMdsdc4SNMdut6l3x75BkKuuzrBKRxwFBcLlLSCIIKwSJQCRLRASBnib84RgpPn2ZK0TMi0YdpBDKwO4qmo36pjG9utPNNKuUhoM2r7gQ4c/8yOrJG4BXw+/1whc=);whiteSpace=wrap;points=[[0,0.5,0,0,8],[0.5,0,0,0,0],[1,0.5,0,0,8]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(pZJBGoIgEIVPw57ACxTVPUjH5BPBD0jr9gmjCzNd6I55D/55wBAufCVbIIwa2QDhV8LYxSoNblgMao9SRrGssGRjKX0LeUCtk07JhwZ0fHC2hl4VYTyiTAVOhejyG6FnEhmUcPGQef109mWKmTHZrYyEhTHZje1i+Dc2GWN95ikJu28QtDKrhB2AH8JpByI7HCI7/hC77pFr62F1FxeDvvjPpK4MAReldbAxHaXSGkftT9dEXgCSikOfhC8=);whiteSpace=wrap;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(rVRBDoMgEHwNdwU/0ND2Cb2jYiUiGKDa/r4oeECjadGEy86ww8BOAAjrmnQUwESQlgJ0BRA+CO8tAi04OCRLXFm7EvmS6I4WxmE9UYzk3Pdpo2RDB1Ya38JETRUzI4tuILnYPeNCOCdF81TyJcqAmOmOjAorYqZbOTpN3u4Qb+sTugTwvqPAmdhUSCMUFhIwQiI77iI7/hQnXCTGRMGlppu7ELb4KhMTuhEkhCup6E7CKsa5i+vOqX/F8ISXW0j8pBCaSCMUQg8oQiFmejO3OYSpbTXFCXWf1wR8AQ==);whiteSpace=wrap;points=[[0,0.5,0,0,8],[0.5,0,0,0,0],[1,0.5,0,0,8]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 50,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"strokeWidth=2;html=1;shape=stencil(pZJBGoIgEIVPw57ACxTVPUjH5BPBD0jr9gmjCzNd6I55D/55wBAufCVbIIwa2QDhV8LYxSoNblgMao9SRrGssGRjKX0LeUCtk07JhwZ0fHC2hl4VYTyiTAVOhejyG6FnEhmUcPGQef109mWKmTHZrYyEhTHZje1i+Dc2GWN95ikJu28QtDKrhB2AH8JpByI7HCI7/hC77pFr62F1FxeDvvjPpK4MAReldbAxHaXSGkftT9dEXgCSikOfhC8=);whiteSpace=wrap;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"70\" height=\"34\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 70,
+    "h": 34,
     "aspect": "fixed"
   }
 ]</mxlibrary>
